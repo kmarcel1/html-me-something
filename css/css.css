@@ -1,5 +1,5 @@
 
-	body {background-image: url(images/starfiel.gif);}
+	body {background-image: url(../images/starfiel.gif);}
 
 	article {
     				display: block;
@@ -39,7 +39,7 @@
 	.banner {
 				width:960px;
 				height:222px;
-				background-image:url(images/top_banner.jpg);
+				background-image:url(../images/top_banner.jpg);
 				margin: 0 auto;				
 			}	
 	.content {
